@@ -16,7 +16,7 @@
 
 # Required TensorFlow version [min, max)
 INCLUSIVE_MIN_TF_VERSION = "2.13.0"
-EXCLUSIVE_MAX_TF_VERSION = "2.16.0"
+EXCLUSIVE_MAX_TF_VERSION = "2.17.0"
 
 # We follow Semantic Versioning (https://semver.org/)
 _MAJOR_VERSION = "0"
